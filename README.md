@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MeachelleAbella!
-- 👀 I’m interested in kinda coding, mostly just sleepbugging...
-- 🌱 I’m currently learning python, c++, c#, django, sql, java, and still learning.
-- 📫 How to reach me? You can email me: ameachellenicole@gmail.com or contact me +639291595831.
+- 👀 mostly just sleepbugging...
+- 🌱 I am still learning!
 
 <!---
 MeachelleAbella/MeachelleAbella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
